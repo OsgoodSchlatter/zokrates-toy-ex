@@ -1,0 +1,9 @@
+struct User {
+    field isChosen;
+    u32 id;
+}
+
+def main(field choice) -> User {
+    User mut u = User {isChosen: 1-choice, id: 1};
+    return u;
+}

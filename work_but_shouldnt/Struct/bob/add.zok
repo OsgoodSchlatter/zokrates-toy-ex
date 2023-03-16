@@ -1,9 +1,0 @@
-struct User {
-    field isChosen;
-    u32 id;
-}
-
-def main(field choice) -> field {
-    User u = User {isChosen: choice, id: 1};
-    return 0;
-}

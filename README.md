@@ -1,7 +1,7 @@
 # zokrates-toy-ex
 ### Toy example of zoKrates
 
-in ``src```, you can find 3 directories: 
+in ``src``, you can find 3 directories: 
 - ```dont_work_and_shouldnt``` in this dir we can find code that don't pass the proof, but should not.
 - ```work_but_shouldnt``` in this dir we can find code that pass the proof, but should not.
 - ```work_but_should``` in this dir we can find code that pass the proof, and should.

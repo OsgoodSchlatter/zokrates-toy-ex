@@ -17,3 +17,6 @@ in ```work_and_should```:
 in ```work_and_shouldnt```:
 - in ``add_hardcoded``, alice returns the addition of two inputs while bob returns hardcoded value of 4. And the inputs of Alice is 2+2: it should not pass the proof yet it does.
 - in ``Struct``, alice returns a parameter of a struct while bob returns hardcoded value. However, the inputs make the value of the result of Bob and Alice to be similar: it should not pass the proof yet it does.
+
+##
+I used this library : https://zokrates.github.io/introduction.html

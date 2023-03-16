@@ -1,0 +1,5 @@
+def main(field a, field b) -> field {
+    // log("bob : x is {}, y is {}", a, b);
+    log("result = {} ", a+b);
+    return a + b;
+}
